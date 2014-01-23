@@ -2,4 +2,8 @@ Hello World
 
 Added new line
 
+
 Added new Line at the same time as other.
+
+Another conflictive Line What will happen?
+
